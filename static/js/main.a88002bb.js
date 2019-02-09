@@ -9379,7 +9379,7 @@
                     }), l.a.createElement("img", {
                         className: "about__profile-photo",
                         alt: "me",
-                        src: "me-cropped.png"
+                        src: "https://raw.githubusercontent.com/rahulsinghpatel/rahulsinghpatel.github.io/master/me-cropped.png"
                     })), l.a.createElement("div", {
                         className: "about__description"
                     }, l.a.createElement("h1", {
