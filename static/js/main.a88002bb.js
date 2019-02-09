@@ -8322,7 +8322,7 @@
             }, l.a.createElement("tspan", {
                 x: "64",
                 y: "110"
-            }, "I")), l.a.createElement("text", {
+            }, "R")), l.a.createElement("text", {
                 id: "B",
                 fontFamily: "Helvetica",
                 fontSize: "72",
@@ -8331,7 +8331,7 @@
             }, l.a.createElement("tspan", {
                 x: "156",
                 y: "197"
-            }, "B")))))
+            }, "P")))))
         },
         p = function(e) {
             function t() {
