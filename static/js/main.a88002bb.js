@@ -8914,12 +8914,12 @@
                         key: t
                     }, e)
                 })
-            }("Web and mobile developer"))
+            }("Data Scientist at Sentienz"))
         },
         h = function() {
             return l.a.createElement("div", {
                 className: "home__description"
-            }, "Currently based in Toronto, I'm passionate about designing and developing digital products. ", l.a.createElement("br", null))
+            }, "Building Next Generation AI Products | Bengaluru, Karnataka, India ", l.a.createElement("br", null))
         },
         m = function(e) {
             return l.a.createElement("button", {
