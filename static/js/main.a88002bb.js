@@ -8844,7 +8844,7 @@
                         className: "footer"
                     }, l.a.createElement("div", {
                         className: "footer__copyright"
-                    }, "\xa9 I/B 2019"), l.a.createElement("a", {
+                    }, "\xa9 R/P 2019"), l.a.createElement("a", {
                         className: "footer__link",
                         href: "https://www.linkedin.com/in/rahul-patel-nit-jsr/",
                         rel: "noopener noreferrer",
