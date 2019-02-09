@@ -8381,7 +8381,7 @@
                         onClick: this.props.onWorkClick
                     }, "Work"), l.a.createElement("a", {
                         className: "toolbar__link",
-                        href: "mailto:contact@inseobaek.com",
+                        href: "mailto:rahulpatel11315@gmail.com",
                         rel: "noopener noreferrer",
                         target: "_blank"
                     }, "Contact"))
@@ -8846,17 +8846,17 @@
                         className: "footer__copyright"
                     }, "\xa9 I/B 2019"), l.a.createElement("a", {
                         className: "footer__link",
-                        href: "https://www.linkedin.com/in/inseo-baek-75b9a8110",
+                        href: "https://www.linkedin.com/in/rahul-patel-nit-jsr/",
                         rel: "noopener noreferrer",
                         target: "_blank"
                     }, "LinkedIn"), l.a.createElement("a", {
                         className: "footer__link",
-                        href: "https://www.github.com/yunibaek",
+                        href: "https://github.com/rahulsinghpatel",
                         rel: "noopener noreferrer",
                         target: "_blank"
                     }, "Github"), l.a.createElement("a", {
                         className: "footer__link",
-                        href: "mailto:contact@inseobaek.com",
+                        href: "mailto:rahulpatel11315@gmail.com",
                         rel: "noopener noreferrer",
                         target: "_blank"
                     }, "Email"))
