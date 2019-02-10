@@ -9265,15 +9265,15 @@
         }(),
         f = [{
             src: "curious.png",
-            title: "Curious",
-            description: "I'm a curious individual who loves to discover and learn just about anything in life, from programming related materials to new restaurants opening up in my city. "
+            title: "B.Tech @ NIT Jamshedpur",
+            description: "Completed B.Tech (2016) from NIT Jamshedpur in CSE discipline. I'm a curious individual who loves to discover and learn just about anything in life, from programming related materials to new restaurants opening up in my city. "
         }, {
             src: "creative.png",
-            title: "Creative",
+            title: "Data Scientist @ Sentienz",
             description: "I am passionate about coming up with new and creative ideas for applications to attract more users and entice curiosity. "
         }, {
             src: "coding.png",
-            title: "Coding",
+            title: "Software Engineer @ MAQ Software",
             description: "I love solving real-world problems through coding. I've been playing with computers since 5th grade and coding has ultimately been my source of happiness. "
         }],
         p = ["Classification", "ML", "DL", "panads", "Python", "numpy", "scikit-learn", "Modeling", "EDA", "Data Preprocessing","Tensorflow","keras","NLP"],
