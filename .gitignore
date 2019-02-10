@@ -1,0 +1,3 @@
+
+static/js/const TextToSVG = require('text-to-svg');
+static/js/server.js
