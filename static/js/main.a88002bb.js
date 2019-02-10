@@ -8851,6 +8851,11 @@
                         target: "_blank"
                     }, "LinkedIn"), l.a.createElement("a", {
                         className: "footer__link",
+                        href: "https://kaggle.com/rahulpatel11315",
+                        rel: "noopener noreferrer",
+                        target: "_blank"
+                    },"Kaggle"), l.a.createElement("a", {
+                        className: "footer__link",
                         href: "https://github.com/rahulsinghpatel",
                         rel: "noopener noreferrer",
                         target: "_blank"
