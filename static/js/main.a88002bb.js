@@ -9123,7 +9123,7 @@
         projects: [{
             id: "blossom",
             pathname: "https://itunes.apple.com/us/app/blossom-calculate-loving-days/id1202119569?mt=8",
-            title: "Blossom IOS App",
+            title: "Natural Language Processing",
             preview: "Blossom is a IOS mobile app that calculates loving days between couples. Using React Native technology, the app has attracted significant downloads in the South East region.",
             date: "March 2017",
             imageSrc: "blossom.png",
