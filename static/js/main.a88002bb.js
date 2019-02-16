@@ -9140,7 +9140,7 @@
                 color: "white"
             }
         }, {
-            id: "Quiz App",
+            id: "Regression",
             pathname: "https://github.com/yunibaek/quizzes",
             title: "Quiz App",
             preview: "Quiz application is a simple web application that sends out fun quizzes to the user and tracks their score. Built using React and Redux.",
@@ -9161,7 +9161,7 @@
         }, {
             id: "todo",
             pathname: "http://todoapp.inseobaek.com",
-            title: "Todo App",
+            title: "Classification",
             preview: "Todo application is a simple web application that tracks the list of todo items for the user. Built using React and Redux.",
             date: "January 2017",
             imageSrc: "todocard.png",
